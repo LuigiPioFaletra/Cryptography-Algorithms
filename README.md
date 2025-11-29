@@ -8,7 +8,7 @@ The goal of the project is to demonstrate encryption, decryption, and primality 
 ## Repository Structure
 
 ```
-crypto_project/
+main_repository/
 │
 ├── implementation/
 │ ├── AES_CTR.java
