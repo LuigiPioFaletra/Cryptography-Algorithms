@@ -17,6 +17,7 @@ main_repository/
 │ ├── MillerRabin.java
 │ ├── RSA.java
 │ └── Trasposizione.java
+│
 ├── LICENSE
 └── README.md
 ```
@@ -68,3 +69,9 @@ java Main
 - Input can be text messages or numeric keys depending on the algorithm
 - Ensure Java 8 or higher is installed to compile and run the project
 - The project demonstrates both modern and classical encryption techniques, along with basic cryptographic testing
+
+---
+
+### License
+
+This project is licensed under the terms of the MIT license. You can find the full license in the `LICENSE` file.
